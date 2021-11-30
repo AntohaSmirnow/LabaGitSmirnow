@@ -12,11 +12,8 @@ namespace LabaPoGitySmirnow
         {
             Console.WriteLine("Hello World");
             Console.WriteLine("Hello Vsem");
-            for (int i = 0; i<10; i++)
-            {
-                Console.WriteLine("Good job");
-            }
-
+            string name = "LABA";
+            Console.WriteLine("Who are you?");
         }
     }
 }
