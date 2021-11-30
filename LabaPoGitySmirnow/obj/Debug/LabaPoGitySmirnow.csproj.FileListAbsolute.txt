@@ -1,7 +1,0 @@
-C:\Users\User\source\repos\LabaPoGitySmirnow\LabaPoGitySmirnow\bin\Debug\LabaPoGitySmirnow.exe.config
-C:\Users\User\source\repos\LabaPoGitySmirnow\LabaPoGitySmirnow\bin\Debug\LabaPoGitySmirnow.exe
-C:\Users\User\source\repos\LabaPoGitySmirnow\LabaPoGitySmirnow\bin\Debug\LabaPoGitySmirnow.pdb
-C:\Users\User\source\repos\LabaPoGitySmirnow\LabaPoGitySmirnow\obj\Debug\LabaPoGitySmirnow.csprojAssemblyReference.cache
-C:\Users\User\source\repos\LabaPoGitySmirnow\LabaPoGitySmirnow\obj\Debug\LabaPoGitySmirnow.csproj.CoreCompileInputs.cache
-C:\Users\User\source\repos\LabaPoGitySmirnow\LabaPoGitySmirnow\obj\Debug\LabaPoGitySmirnow.exe
-C:\Users\User\source\repos\LabaPoGitySmirnow\LabaPoGitySmirnow\obj\Debug\LabaPoGitySmirnow.pdb
